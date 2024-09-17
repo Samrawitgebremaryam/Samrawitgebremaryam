@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samrawit Gebremaryam Bahta</h1>
-<h3 align="center">A Full-Stack Developer from Ethiopia with a strong focus on Backend Development. I’m passionate about building scalable, efficient systems and currently working on my skills in Go and Gin. With experience in a wide range of technologies including Node.js, Express.js, React, MySQL, and MongoDB, I enjoy solving complex challenges and contributing to open-source projects.</h3>
+<h3 align="center">A Full-Stack Developer from Ethiopia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrawitgebremaryam&label=Profile%20views&color=0e75b6&style=flat" alt="samrawitgebremaryam" /> </p>
 
-- 🌱 I’m currently learning **Go, a programming language, and Gin, a web framework used to build fast and efficient web applications in Go.**
-
-- 📫 How to reach me **samrawitgebremaryam121@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ra3RqAlh4TkNfGapP4oXVZ7ZdPCmygh1/view?usp=sharing](https://drive.google.com/file/d/1Ra3RqAlh4TkNfGapP4oXVZ7ZdPCmygh1/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samrawit-bahta-a49791264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrawit-bahta-a49791264" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/samrawit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samrawit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samrawit_gebremaryam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samrawit_gebremaryam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samrawit bahta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrawit bahta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samrawitgebremaryam&show_icons=true&locale=en" alt="samrawitgebremaryam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrawitgebremaryam&" alt="samrawitgebremaryam" /></p>
-
